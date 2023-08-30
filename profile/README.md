@@ -1,12 +1,12 @@
 <!-- Title -->
-# <center>🚀 DevGeeks</center>
+# <div align="center">🚀 DevGeeks</div>
 
 <!-- Description -->
 <p align="center">🌟 Welcome to a world of innovation and collaboration! 🌟</p>
 
 <!-- Abstract Visual Element -->
 <p align="center">
-  <img width="150" src="./1.png" alt="org logo">
+  <img width="200" src="./1.png" alt="org logo">
 </p>
 
 <!-- collaborator titles  -->
