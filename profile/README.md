@@ -6,7 +6,7 @@
 
 <!-- Abstract Visual Element -->
 <p align="center">
-  <img width="80" src="./logo.png" alt="Abstract Art">
+  <img width="150" src="./1.png" alt="org logo">
 </p>
 
 <!-- collaborator titles  -->
