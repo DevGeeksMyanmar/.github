@@ -6,7 +6,7 @@
 
 <!-- Abstract Visual Element -->
 <p align="center">
-  <img width="200px" src="./1.png" alt="org logo">
+  <img width="200px" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="org logo">
 </p>
 
 <!-- collaborator titles  -->
