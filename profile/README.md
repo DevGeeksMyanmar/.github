@@ -35,15 +35,28 @@
       <br />
       kira
     </td>
-     <td align="center">
+     
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://github.com/Pyae-PhyoMaung.png" alt="woody" width="150px"  />
       <br />
-      phyo
+      pyae
     </td>
      <td align="center">
       <img src="https://github.com/HAstral.png" alt="Image 3" width="150px"  />
       <br />
       hastral
+    </td>
+    <td align="center">
+      <img src="https://github.com/PhyoZX.png" alt="woody" width="150px"  />
+      <br />
+      phyo
+    </td>
+     <td align="center">
+      <img src="https://github.com/thihakyaww.png" alt="Image 3" width="150px"  />
+      <br />
+      kyaw
     </td>
   </tr>
 </table>
