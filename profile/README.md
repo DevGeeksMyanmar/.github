@@ -12,8 +12,8 @@
 <!-- collaborator titles  -->
 <h3 align=center> Organization Members </h3>
 
-<!-- Create an HTML table to display images in a row -->
-<table align="middle">
+
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/sayrgyiwoody.png" alt="woody" width="150px"  />
