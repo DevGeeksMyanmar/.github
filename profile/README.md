@@ -13,7 +13,7 @@
 <h3 align=center> Organization Members </h3>
 
 <!-- Create an HTML table to display images in a row -->
-<table>
+<table align="middle">
   <tr>
     <td align="center">
       <img src="https://github.com/sayrgyiwoody.png" alt="woody" width="150px"  />
