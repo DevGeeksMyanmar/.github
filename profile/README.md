@@ -98,7 +98,7 @@ For more details, check our [Contribution Guide](https://github.com/sayrgyiwoody
 
 📧 Reach out to us:
 
-- Email: [DevGeeksMyanmar@gmail.com](mailto:contact@yourorganization.com).
+- Email: [DevGeeksMyanmar@gmail.com](mailto:DevGeeksMyanmar@gmail.com).
 
 
 ---
