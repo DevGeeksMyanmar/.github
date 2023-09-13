@@ -9,59 +9,6 @@
   <img width="200px" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="org logo">
 </p>
 
-<!-- collaborator titles  -->
-<h3 align=center> Organization Members </h3>
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/sayrgyiwoody.png" alt="woody" width="150px"  />
-      <br />
-      woody
-    </td>
-    <td align="center">
-      <img src="https://github.com/Hein-HtetSan.png" alt="woody" width="150px"  />
-      <br />
-      zed
-    </td>
-    <td align="center">
-      <img src="https://github.com/Lynn-Myat-Bhone.png" alt="woody" width="150px"  />
-      <br />
-      lynn
-    </td>
-     <td align="center">
-      <img src="https://github.com/CodingByKira.png" alt="woody" width="150px"  />
-      <br />
-      kira
-    </td>
-     
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Pyae-PhyoMaung.png" alt="woody" width="150px"  />
-      <br />
-      pyae
-    </td>
-     <td align="center">
-      <img src="https://github.com/HAstral.png" alt="Image 3" width="150px"  />
-      <br />
-      hastral
-    </td>
-    <td align="center">
-      <img src="https://github.com/PhyoZX.png" alt="woody" width="150px"  />
-      <br />
-      phyo
-    </td>
-     <td align="center">
-      <img src="https://github.com/thihakyaww.png" alt="Image 3" width="150px"  />
-      <br />
-      kyaw
-    </td>
-  </tr>
-</table>
-
-
 <!-- Table of Contents -->
 ## Table of Contents
 - [About Us](#about-us)
